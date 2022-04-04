@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Asuk yapalım!
+// @name         KOSUN KURTARIN BURALARI
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  LETSGO
